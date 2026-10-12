@@ -1,0 +1,17 @@
+name: "ufoLib2"
+description: "ufoLib2 is a UFO font processing library."
+third_party {
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2026
+    month: 10
+    day: 12
+  }
+  homepage: "https://github.com/fonttools/ufoLib2"
+  identifier {
+    type: "Git"
+    value: "https://github.com/fonttools/ufoLib2"
+    version: "4453d08df2535d1efe1ee2007a03987012e53884"
+    closest_version: "v0.18.1"
+  }
+}
